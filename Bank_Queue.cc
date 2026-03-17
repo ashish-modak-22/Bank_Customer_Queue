@@ -79,7 +79,7 @@ int main(){
                         break;
 
                 default: 
-                         cout << "\nWrong input given! Plase try again!";
+                         cout << "\nWrong input given! Please try again!";
              }
     }
 }
